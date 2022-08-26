@@ -1,6 +1,6 @@
 # 快速部署
 
-!> 目前项目仍处于开发阶段，请勿部署到正式环境。
+!> 目前项目仍处于开发阶段，仅供测试使用。
 
 ## 初始化
 
@@ -51,6 +51,17 @@ python3 main.py --login_email=* --db_root_password=* --login_password=*
     - 绑定面板域名
 
 <!-- tabs:end -->
+
+## 启动与停止
+
+面板一旦安装将会默认设为开机启动并立即运行。
+
+```bash
+# 启动
+systemctl start ui-ssh
+# 停止
+systemctl stop ui-ssh
+```
 
 ## 会安装哪些软件？
 
