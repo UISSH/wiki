@@ -17,6 +17,7 @@
 ![002_overview](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/002_overview.png)
 ![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/003_website.png)
 ![004_filebrowser](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/004_filebrowser.png)
-![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/005_nginx_config.png)
-![003_website](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/006_terminal.png)
+![005_nginx_config](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/005_nginx_config.png)
+![006_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/006_terminal.png)
+![007_terminal](https://raw.githubusercontent.com/UISSH/.github/main/profile/screenshot/007_terminal.png)
 
